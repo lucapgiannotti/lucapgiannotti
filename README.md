@@ -18,7 +18,7 @@
 </h3>
   <p>
     <a href="https://github.com/Squidnugget77">
-      <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,swift&perline=12"/>
+      <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,swift,cpp&perline=12"/>
     </a>
   </p>
   
@@ -28,7 +28,7 @@
   </h3>
   <p>
     <a href="https://github.com/Squidnugget77">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,git,webstorm,pycharm,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,git,webstorm,pycharm,linux,cloudflare," />
   </a>
   </p>
 
