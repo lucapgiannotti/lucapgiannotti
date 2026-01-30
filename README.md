@@ -2,16 +2,19 @@
   Luca on GitHub ~
   <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/bb165307-6543-4d3e-8cf7-a9c66760edec" width="64px" />
 </h2>
+
+<!--
 <h3>❝ Train yourself to let go of everything you fear to lose ❞
 <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/0f683400-0036-4dde-8e09-3af0c2d8698e" width="64px" />
 </h3>
-
+-->
 <p>—</p> Hello 👋
-<p>—</p> I am interested in machine learning and full-stack web development.
+<p>—</p> I am interested in machine learning.
 <p>—</p> I'm currently learning: React.
-        
-<p>—</p>
 
+
+<!--        
+<p>—</p>
 <h3>
   <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/98e36543-f115-46d8-8bad-b9191ca15564" width="64px" />
   Programming and Markup Languages ~
@@ -21,7 +24,9 @@
       <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,swift,cpp&perline=12"/>
     </a>
   </p>
+
   
+  <!--
   <h3>
     <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/3f7969a9-764f-4399-b360-bb65edc979aa" width="64px" />
     Software & Tools I Use ~
@@ -32,6 +37,7 @@
   </a>
   </p>
 
+  
  <!-- <h3>
     Recent Projects ~
      <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/f0dbeb30-ec67-4fac-814d-b52dbde362e9" width="64px" />
@@ -44,7 +50,9 @@
         <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=Squidnugget77&repo=assistant-duck&theme=github_dark&hide_border=true&bg_color=11151C" />
       </a>
     </p>
+
     
+   <!-- 
   <h3>
     <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/5e45e348-ffff-46a6-b87a-0fd6d9270210" width="64px" />
     GitHub Statistics ~
