@@ -9,7 +9,7 @@
 </h3>
 -->
 <p>—</p> Hello 👋
-<p>—</p> I am interested in machine learning.
+<p>—</p> I am an undergraduate researcher in ML/digital health
 <!-- <p>—</p> I'm currently learning: React. -->
 
 
